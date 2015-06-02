@@ -1,0 +1,19 @@
+{
+  "name": "LRObjc2Dict",
+  "version": "1.0.1",
+  "homepage": "https://github.com/ganlirong/LRObjc2Dict.git",
+  "authors": {
+    "ganlirong": "gan@glron.com"
+  },
+  "license": "Apache License",
+  "summary": "convert NSObject to NSDictionary",
+  "source": {
+    "git": "https://github.com/ganlirong/LRObjc2Dict.git",
+    "tag": "v1.0.1"
+  },
+  "source_files": "LRObjc2Dict/LRObjc2Dict/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "3.0"
+  }
+}

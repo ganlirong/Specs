@@ -1,0 +1,19 @@
+{
+  "name": "LRPullTableView",
+  "version": "1.0.1",
+  "homepage": "https://github.com/ganlirong/LRPullTableView.git",
+  "authors": {
+    "ganlirong": "gan@glron.com"
+  },
+  "license": "Apache License",
+  "summary": "integrate EGOTableViewPullRefresh and add pull up refresh",
+  "source": {
+    "git": "https://github.com/ganlirong/LRPullTableView.git",
+    "tag": "v1.0.1"
+  },
+  "source_files": "LRPullTableView/LRPullTableView/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  }
+}

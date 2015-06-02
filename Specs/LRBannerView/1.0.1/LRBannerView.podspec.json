@@ -1,0 +1,24 @@
+{
+  "name": "LRBannerView",
+  "version": "1.0.1",
+  "homepage": "https://github.com/ganlirong/LRBannerView.git",
+  "authors": {
+    "ganlirong": "gan@glron.com"
+  },
+  "license": "Apache License",
+  "summary": "a banner for ad",
+  "source": {
+    "git": "https://github.com/ganlirong/LRBannerView.git",
+    "tag": "v1.0.1"
+  },
+  "source_files": "LRBannerView/LRBannerView/*.{h,m}",
+  "requires_arc": true,
+  "platforms": {
+    "ios": "6.0"
+  },
+  "dependencies": {
+    "SDWebImage": [
+      "~> 3.7.0"
+    ]
+  }
+}
